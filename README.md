@@ -46,3 +46,6 @@ Here are some ideas to get you started:
 - ⚖️ Data Structure and Algorithms
 
 - 🉑 Operating System and DBMS
+
+## Languages and tools:
+C++ VS Code Python HTML_CSS Javascript Git Linux
