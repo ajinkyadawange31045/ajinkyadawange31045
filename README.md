@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 🉑 Operating System and DBMS
 
 ## Languages and tools:
-![This is an image][(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png]
+![This is an image][(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png)]
 - 
 - https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png
 -https://camo.githubusercontent.com/009daeb2ea26dde79316d276e75f765a5f231412f7e1000d24f6d7f173b93a5b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31302f435353335f616e645f48544d4c355f6c6f676f735f616e645f776f72646d61726b732e7376672f37393170782d435353335f616e645f48544d4c355f6c6f676f735f616e645f776f72646d61726b732e7376672e706e67
