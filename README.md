@@ -1,5 +1,11 @@
-### Hi there, This is Ajinkya 👋
+### Hey there, This is Ajinkya 👋
 
+### ✍️ About me
+Hey there ! welcome to my profile.
+
+My Name is Ajinkya Dawange and I am currently studying at the National Institute of Technology Karnataka pursuing my B.tech in ECE branch. 📍
+
+I am Interesed in Web Development and Software Development. 💎
 <!--
 **ajinkyadawange31045/ajinkyadawange31045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
