@@ -29,3 +29,20 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with a django developer
 - 💬 Ask me about Web Development
 - 📫 How to reach me: dawangeajinkya.201ec117@nitk.edu.in
+
+## Top Skills ↗️
+- 👽 Programming Languages (C,C++,Python)
+
+- 🕸️ Front End (Tkinter)
+
+- 🌀 Backend (Python)
+
+- 🐼 Data Science (DataViz and Analysis)
+
+- 🤖 Machine learning and Deep Learning
+
+- 🆑 Linux (Shell scripts)
+
+- ⚖️ Data Structure and Algorithms
+
+- 🉑 Operating System and DBMS
