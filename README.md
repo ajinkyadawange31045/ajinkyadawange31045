@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 
 - 🉑 Operating System and DBMS
 
+- 📟 Git and GitHub
+
 ## :dart: Languages and Tools:
 <p align="center">
   
