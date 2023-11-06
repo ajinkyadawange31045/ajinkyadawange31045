@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 - 📟 Git and GitHub
 
+- AWS Services
+
 ## :dart: Languages and Tools:
 <p align="center">
   
