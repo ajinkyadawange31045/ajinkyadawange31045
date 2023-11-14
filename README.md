@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 AWS Services
 
+- 🌀 DevOps tools 
+
 ## :dart: Languages and Tools:
 <p align="center">
   
