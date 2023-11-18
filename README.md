@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 - 📟 Git and GitHub
 
-- 👨‍💻 AWS Services
+- 👨‍💻 AWS Services - EC2, ELB, S3, EBS, RDS, DynamoDb, VPC, Route53, SNS, Beanstalk, Lambda
 
 - 🌀 DevOps tools 
 
