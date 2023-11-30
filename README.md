@@ -1,12 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there%2C+This+is+Ajinkya+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=FF7100&center=true&repeat=false&random=false&width=435&lines=Hey+there%2C+This+is+Ajinkya+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### ✍️ About me
-Hey there ! welcome to my profile.
-
-My Name is Ajinkya Dawange and I am currently studying at the National Institute of Technology Karnataka pursuing my B.tech in ECE branch.
-
-I am Interesed in Web Development and Software Development. 💎
+Greetings! Thank you for visiting my profile.
+My name is Ajinkya Dawange and I am a student at the National Institute of Technology Karnataka, pursuing a B.Tech in the ECE field.
+My passion lies in AWS technologies, DevOps tools, Web Development and Software Development. 💎
 
 <!--
 **ajinkyadawange31045/ajinkyadawange31045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
