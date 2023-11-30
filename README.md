@@ -1,4 +1,6 @@
-### Hey there, This is Ajinkya 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+there%2C+This+is+Ajinkya+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2CThis+is+Ajinkya+from+Maharashtra%2C+India.+)](https://git.io/typing-svg)
 
 ### ✍️ About me
 Hey there ! welcome to my profile.
