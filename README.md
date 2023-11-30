@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00CD40&center=true&repeat=false&random=false&width=435&lines=Hey+there%2C+This+is+Ajinkya+%F0%9F%91%8B)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=FF7100&center=true&repeat=false&random=false&width=435&lines=Hey+there%2C+This+is+Ajinkya+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00CD40&background=FFFFFF00&center=true&random=true&width=435&lines=Hey+there%2C+This+is+Ajinkya+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ### ✍️ About me
 Greetings! Thank you for visiting my profile.
