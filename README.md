@@ -45,9 +45,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 AWS Services - EC2, ELB, S3, EBS, RDS, DynamoDb, VPC, Route53, SNS, Beanstalk, Lambda
 
-- 🌀 DevOps tools
-
-- Docker
+- 🌀 DevOps tools - Maven, Apache Tomcat, SonarQube, Git, Nexus, Terraform, Ansible, Docker, Kubernetes.
 
 ## :dart: Languages and Tools:
 <p align="center">
