@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 🉑 Operating System and DBMS
 
-- 📟 Git and GitHub
+- 📟 GitHub
 
 - 👨‍💻 AWS Services - EC2, ELB, S3, EBS, RDS, DynamoDb, VPC, Route53, SNS, Beanstalk, Lambda
 
