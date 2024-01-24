@@ -7,7 +7,7 @@ My passion lies in AWS technologies, DevOps tools, Web Development and Software 
 
 <!--
 **ajinkyadawange31045/ajinkyadawange31045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Jai Shree Ram !
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
