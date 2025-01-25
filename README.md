@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on College Space project
-- 🌱 I’m currently learning DSA, React and NodeJs
-- 👯 I’m looking to collaborate on College space project for payment integration 
-- 🤔 I’m looking for help with a django developer
-- 💬 Ask me about Web Development (especially Django)
+- 🔭 I’m currently working on College Space project.
+- 🌱 I’m currently learning DSA, React and NodeJs.
+- 👯 I’m looking to collaborate on one of my projects in the frontend field. 
+- 🤔 I’m looking for help with a django developer who can help me to implement courses module in my personal project, something similar to Udemy.
+- 💬 Ask me about Web Development, Cloud and DevOps.
 - 📫 How to reach me: dawangeajinkya.201ec117@nitk.edu.in
+
 
 ## Top Skills ↗️
 - 👽 Programming Languages (Python)
