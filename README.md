@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00CD40&background=FFFFFF00&center=true&vCenter=true&width=650&height=45&lines=Hey+there%2C+I'm+Ajinkya+%F0%9F%91%8B;Software+Engineer+%E2%9A%A1;Tech+Explorer+%26+Lifelong+Learner+%F0%9F%8C%B1" alt="Typing SVG" />
+  <a href="https://ajinkya-portfolio-google-style.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00CD40&background=FFFFFF00&center=true&vCenter=true&width=650&height=45&lines=Hey+there%2C+I'm+Ajinkya+%F0%9F%91%8B;Software+Engineer+%E2%9A%A1;Tech+Explorer+%26+Lifelong+Learner+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
 </p>
 
 ### ✍️ About Me
